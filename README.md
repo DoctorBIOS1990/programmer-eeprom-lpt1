@@ -2,6 +2,12 @@
 
 Old project. <a href="https://rayer.g6.cz/">Rayer</a> SPIPGM GUI and command automation solution. Contribution to the community of electronic technicians in my country.
 
+<strong> Control Interface (Low-Level Tool Automation)</strong>
+
+Graphical Wrapper (GUI) to automate interaction with command-line interface (CLI) tools for reprogramming SPI 25xxx memories.
+Abstracts complex commands, enabling bidirectional communication between the user interface and the execution engine through the handling of processes and shell parameters.
+Optimizes the hardware recovery workflow by eliminating manual command entry and improving operational efficiency in firmware diagnostics.
+
 <strong> Developed in: </strong> Borland Delphi 7
 
 > [!IMPORTANT]

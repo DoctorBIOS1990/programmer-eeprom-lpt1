@@ -18,22 +18,22 @@ Optimizes the hardware recovery workflow by eliminating manual command entry and
 
 <div align="center">
   
-# Splash
+## Splash
 <div align="center">
   <img src="https://github.com/DoctorBIOS1990/Programmer-EEPROM-LPT1/blob/main/ScreenShot/Splash.jpeg">
 </div>
 
-# Main View
+## Main View
 <div align="center">
   <img src="https://github.com/DoctorBIOS1990/Programmer-EEPROM-LPT1/blob/main/ScreenShot/Main.jpeg">
 </div>
 
-# Hex Viewer
+## Hex Viewer
 <div align="center">
   <img src="https://github.com/DoctorBIOS1990/Programmer-EEPROM-LPT1/blob/main/ScreenShot/Screen.png">
 </div>
 
-# Interface Schematic Electric
+## Interface Schematic Electric
 <div align="center">
   <img src="https://github.com/DoctorBIOS1990/Programmer-EEPROM-LPT1/blob/main/ScreenShot/Schematic%20Electric.jpeg">
 </div>
